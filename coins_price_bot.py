@@ -93,7 +93,7 @@ get_price_from_binace(coins)
 
 
 
-bot = telebot.TeleBot('7895098930:AAEsEPvq9YAR36DgNp2pQWJ653hLZIM0SsU')
+bot = telebot.TeleBot('')
 
 
 def telegram_bot():

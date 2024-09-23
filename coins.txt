@@ -1,0 +1,10 @@
+btc
+eth
+sol
+doge
+pepe
+apex
+ton
+not
+bnb
+ondo
